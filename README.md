@@ -32,6 +32,8 @@ D
 =
 [Digital Biz Academy UK]
 http://digitalbusinessacademyuk.com/
+[Duck University]
+http://itunes.duke.edu/
 
 E
 =
