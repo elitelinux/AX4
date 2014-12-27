@@ -103,6 +103,8 @@ https://www.open2study.com
 https://www.openlearning.com/
 [Open Online Academy]
 https://www.ooed.org
+[Open University]
+http://www.open.edu/openlearn/
 [Owlas]
 http://www.owlas.com
 
