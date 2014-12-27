@@ -14,6 +14,8 @@ https://openeducation.blackboard.com
 
 C
 =
+[California University]
+https://www.uclaextension.edu/pages/search.aspx?c=free+courses
 [Canvas]
 https://www.canvas.net
 [Carnegie Mellon University]
@@ -50,6 +52,8 @@ http://openedx.seas.gwu.edu
 
 H
 =
+[Harvard University]
+http://www.extension.harvard.edu/open-learning-initiative
 
 I
 =
