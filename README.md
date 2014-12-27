@@ -6,6 +6,11 @@ moocs
 websites for courses on line
 A
 =
+[Academic Earth]
+http://academicearth.org/
+[Alisona]
+http://alison.com
+[]
 
 B
 =
@@ -39,6 +44,8 @@ http://itunes.duke.edu/
 
 E
 =
+[EduKart]
+http://edukart.com/open
 [Ed X]
 https://www.edx.org
 
@@ -103,13 +110,18 @@ https://www.open2study.com
 https://www.openlearning.com/
 [Open Online Academy]
 https://www.ooed.org
+[Open Up ED]
+http://www.openuped.eu/
 [Open University]
 http://www.open.edu/openlearn/
+
 [Owlas]
 http://www.owlas.com
 
 P
 =
+[Peer 2 Peer University]
+https://p2pu.org
 
 Q
 =
