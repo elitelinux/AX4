@@ -9,9 +9,14 @@ A
 [Academic Earth]
 http://academicearth.org/
 
+[Acamica]
+https://www.acamica.com/
+
 [Alisona]
 http://alison.com
-[]
+
+[Aquent]
+http://gymnasium.aquent.com/catalog
 
 B
 =
@@ -31,6 +36,9 @@ https://www.canvas.net
 
 [Carnegie Mellon University]
 http://oli.cmu.edu
+
+[Class Central]
+https://www.class-central.com
 
 [Complexity Explorer]
 http://www.complexityexplorer.org
@@ -58,6 +66,9 @@ http://edukart.com/open
 [Ed X]
 https://www.edx.org
 
+[Eliademy]
+https://eliademy.com/
+
 F
 =
 [Future Learn]
@@ -81,6 +92,9 @@ https://open.hpi.de
 
 I
 =
+[Idesweb]
+http://idesweb.es/
+
 [Isead X]
 http://iseadx.com
 
@@ -94,11 +108,19 @@ https://janux.ou.edu
 
 K
 =
+[Khan Academy]
+https://www.khanacademy.org/
+
 [Keep Coding]
 http://keepcoding.es
 
+[Kennesaw State University]
+http://mooc.kennesaw.edu/
+
 L
 =
+[Learning by Giving Foundation]
+http://www.learningbygivingfoundation.org/
 
 M
 =
@@ -107,6 +129,9 @@ https://www.miriadax.net
 
 [MIT]
 http://ocw.mit.edu
+
+[MOOC-Ed]
+http://www.mooc-ed.org/
 
 [Mongo DB University]
 https://university.mongodb.com/
@@ -119,10 +144,16 @@ N
 [NovoEd]
 https://novoed.com
 
+[Newsu]
+http://www.newsu.org/
+
 O
 =
 [Open 2 Study]
 https://www.open2study.com
+
+[Open Culture]
+http://www.openculture.com/
 
 [Open Learning]
 https://www.openlearning.com/
@@ -149,11 +180,16 @@ Q
 
 R
 =
+[Rwaq]
+http://www.rwaq.org/
 
 S
 =
 [Saylor University]
 http://www.saylor.org/
+
+[Schoo]
+https://schoo.jp/
 
 [Standford University]
 https://class.stanford.edu
@@ -161,6 +197,8 @@ http://see.stanford.edu
 
 T
 =
+[ThinkCerca]
+http://www.thinkcerca.com/
 
 U
 =
@@ -178,9 +216,13 @@ http://uopeople.edu
 
 V
 =
+[Veduca]
+http://www.veduca.com.br/
 
 W
 =
+[World Education University]
+http://www.theweu.com/
 
 X
 =
