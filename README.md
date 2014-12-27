@@ -4,11 +4,13 @@ moocs
 
 
 websites for courses on line
+A
+=
+
 B
 =
 [Black Board]
 https://openeducation.blackboard.com/
-
 
 C
 =
@@ -18,6 +20,9 @@ https://www.canvas.net
 https://www.coursera.org
 [Course Sites BB]
 https://www.coursesites.com/
+
+D
+=
 
 E
 =
@@ -31,8 +36,13 @@ https://www.futurelearn.com
 
 G
 =
+[Universidad Galileo]
+http://telescopio.galileo.edu/
 [George Washington University]
 http://openedx.seas.gwu.edu/
+
+H
+=
 
 I
 =
@@ -48,6 +58,9 @@ K
 =
 [Keep Coding]
 http://keepcoding.es/
+
+L
+=
 
 M
 =
@@ -68,11 +81,21 @@ https://www.ooed.org/
 [Owlas]
 http://www.owlas.com/
 
+P
+=
+
+Q
+=
+
+R
+=
+
+S
+=
 
 T
 =
-[Universidad Galileo]
-http://telescopio.galileo.edu/
+
 
 S
 =
