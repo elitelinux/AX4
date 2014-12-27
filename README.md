@@ -18,6 +18,9 @@ https://www.acamica.com/
 [Alisona]
 http://alison.com
 
+[APNA]
+https://www.apnacourse.com
+
 [Aquent]
 http://gymnasium.aquent.com/catalog
 
@@ -49,6 +52,9 @@ http://code.org/
 [Code Academy]
 http://www.codecademy.com/
 
+[Code Club World]
+http://codeclubworld.org/
+
 [Complexity Explorer]
 http://www.complexityexplorer.org
 
@@ -57,6 +63,9 @@ https://www.coursera.org
 
 [Course Sites BB]
 https://www.coursesites.com
+
+[Curriki]
+http://www.curriki.org/
 
 
 D
@@ -129,6 +138,9 @@ http://keepcoding.es
 [Kennesaw State University]
 http://mooc.kennesaw.edu/
 
+[Kuato]
+http://www.kuatostudios.com/
+
 L
 =
 [Learning by Giving Foundation]
@@ -148,11 +160,17 @@ http://ocw.mit.edu
 [MOOC-Ed]
 http://www.mooc-ed.org/
 
+[MOOC-fr]
+http://www.mooc.fr/
+
 [Mongo DB University]
 https://university.mongodb.com/
 
 [Moodle]
 https://learn.moodle.net/
+
+[Marginal Revolution]
+http://mruniversity.com/
 
 N
 =
@@ -169,6 +187,9 @@ https://www.open2study.com
 
 [Open Culture]
 http://www.openculture.com/
+
+[Open Education Europa]
+http://www.openeducationeuropa.eu/en/find/moocs
 
 [Open Learning]
 https://www.openlearning.com/
@@ -192,6 +213,8 @@ https://p2pu.org
 
 Q
 =
+[Qualt]
+http://www.qualt.com/
 
 R
 =
@@ -209,6 +232,8 @@ https://schoo.jp/
 [Standford University]
 https://class.stanford.edu
 http://see.stanford.edu
+[SyMynd]
+https://www.symynd.com/
 
 T
 =
@@ -239,6 +264,12 @@ http://www.veduca.com.br/
 
 W
 =
+[Wikieducator]
+http://wikieducator.org/Content
+
+[Wikiversity]
+http://wikiversity.org/
+
 [World Education University]
 http://www.theweu.com/
 
