@@ -16,6 +16,8 @@ C
 =
 [Canvas]
 https://www.canvas.net
+[Carnegie Mellon University]
+http://oli.cmu.edu
 [Complexity Explorer]
 http://www.complexityexplorer.org
 [Coursera]
@@ -105,8 +107,9 @@ R
 
 S
 =
-[Standford]
+[Standford University]
 https://class.stanford.edu
+http://see.stanford.edu
 
 T
 =
@@ -115,6 +118,8 @@ U
 =
 [UniMOOC]
 http://unimooc.com
+[Udemy]
+http://www.udemy.com/
 
 V
 =
