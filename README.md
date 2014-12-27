@@ -65,7 +65,8 @@ H
 =
 [Harvard University]
 http://www.extension.harvard.edu/open-learning-initiative
-
+[Hasso Plattner Institute]
+https://open.hpi.de
 I
 =
 [Isead X]
@@ -140,10 +141,14 @@ T
 
 U
 =
+[Udacity]
+https://www.udacity.com
+[Udemy]
+http://www.udemy.com
 [UniMOOC]
 http://unimooc.com
-[Udemy]
-http://www.udemy.com/
+[University of the People]
+http://uopeople.edu
 
 V
 =
