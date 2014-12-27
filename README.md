@@ -9,8 +9,10 @@ A
 
 B
 =
-[Black Board]
+[BlackBoard]
 https://openeducation.blackboard.com
+[Berkeley University]
+http://webcast.berkeley.edu/
 
 C
 =
