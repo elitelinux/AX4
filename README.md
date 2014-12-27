@@ -92,12 +92,26 @@ R
 
 S
 =
+[Standford]
+https://class.stanford.edu/
 
 T
 =
 
-
-S
+U
 =
-[Standford]
-https://class.stanford.edu/
+
+V
+=
+
+W
+=
+
+X
+=
+
+Y
+=
+
+Z
+=
