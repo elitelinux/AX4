@@ -26,6 +26,8 @@ https://www.coursesites.com
 
 D
 =
+[Digital Biz Academy UK]
+http://digitalbusinessacademyuk.com/
 
 E
 =
@@ -73,6 +75,8 @@ M
 https://www.miriadax.net
 [Mongo DB University]
 https://university.mongodb.com/
+[Moodle]
+https://learn.moodle.net/
 
 N
 =
