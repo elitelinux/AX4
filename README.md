@@ -51,6 +51,8 @@ I
 =
 [Isead X]
 http://iseadx.com
+[Iversity]
+https://iversity.org
 
 J
 =
@@ -79,6 +81,8 @@ O
 =
 [Open 2 Study]
 https://www.open2study.com
+[Open Learning]
+https://www.openlearning.com/
 [Open Online Academy]
 https://www.ooed.org
 [Owlas]
