@@ -214,6 +214,9 @@ http://unimooc.com
 [University of the People]
 http://uopeople.edu
 
+[Universidad Politécnica de Valencia]
+https://www.upvx.es/
+
 V
 =
 [Veduca]
