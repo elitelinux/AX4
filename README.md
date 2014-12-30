@@ -31,7 +31,7 @@ http://academicearth.org/
 [Acamica]
 https://www.acamica.com/
 
-[Alisona]
+[Alison]
 http://alison.com
 
 [APNA]
@@ -140,6 +140,9 @@ http://www.free-ed.net/free-ed/
 [Federal Registry for Educational Excellence]
 http://free.ed.gov/
 
+[Financial Management Training Center]
+http://exinfmvs.securesites.net/training/
+
 [Future Learn]
 https://www.futurelearn.com
 
@@ -209,6 +212,9 @@ L
 [Learning by Giving Foundation]
 http://www.learningbygivingfoundation.org/
 
+[Life Hacker]
+http://lifehacker.com/tag/night-school
+
 M
 =
 [Marginal Revolution]
@@ -259,6 +265,9 @@ https://www.open2study.com
 
 [Open Culture]
 http://www.openculture.com/
+
+[Open Education Consortium]
+http://www.oeconsortium.org/courses/
 
 [Open Education Europa]
 http://www.openeducationeuropa.eu/en/find/moocs
@@ -357,6 +366,9 @@ http://ocw.uci.edu/
 [University of Michigan]
 https://open.umich.edu/
 
+[University of Minnesota]
+http://www.csh.umn.edu/free-online-learning-modules
+
 [University of Nicosia]
 http://digitalcurrency.unic.ac.cy/free-introductory-mooc
 
@@ -374,6 +386,9 @@ https://www.upvx.es/
 
 [University of Oxford]
 http://webcast.oii.ox.ac.uk
+
+[University of Reddit]
+http://www.ureddit.com/
 
 [Utah State University]
 http://ocw.usu.edu/courselist/
