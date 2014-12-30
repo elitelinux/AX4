@@ -1,7 +1,19 @@
-moocs
-=====
+Anyone Anything Anywhere Anytime can learn
+==========================================
 
-What is a MOOC?
+What is a AX4?
+===============
+It is this concept where anyone can learn anything anywhere anytime. For this only an Internet connection, a computer or device with some basic requirements, a browser, basic knowledge to surf the internet and most importantly motivation and reading comprehension is required.
+
+Many people around the world seek to deepen structured and understandable way in the various areas of knowledge according to their interests.
+
+Currently the massive online courses can satisfy such requirements, Which are taught from amateurs to prestigious universities.
+
+Today certifications, Gamification, accumulating points, redeem resources, win prizes, etc. It allows us to deepen, entertaining, rich, funny and sophisticated the commonly called: society and knowledge economy.
+
+So then I leave you with a humble list of which you will be able to pick and choose what they like. Bon Appétit
+
+WHat is a MOOC?
 ===============
 Link http://en.wikipedia.org/wiki/Massive_open_online_course
 
