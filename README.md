@@ -104,7 +104,6 @@ https://www.creativelive.com/
 [Curriki]
 http://www.curriki.org/
 
-
 D
 =
 [Data Journalism]
@@ -137,6 +136,9 @@ F
 =
 [Free Ed]
 http://www.free-ed.net/free-ed/
+
+[Federal Registry for Educational Excellence]
+http://free.ed.gov/
 
 [Future Learn]
 https://www.futurelearn.com
