@@ -36,6 +36,9 @@ https://www.apnacourse.com
 [Aquent]
 http://gymnasium.aquent.com/catalog
 
+[Aula Facil]
+http://www.aulafacil.com
+
 B
 =
 [BlackBoard]
@@ -238,6 +241,9 @@ http://www.rwaq.org/
 
 S
 =
+[Open Sap]
+https://open.sap.com/courses
+
 [Saylor University]
 http://www.saylor.org/
 
