@@ -210,6 +210,9 @@ http://open.journalismcourses.org
 [Kuato]
 http://www.kuatostudios.com/
 
+[Kutztown University Small Business Development Center]
+http://www.kutztownsbdc.org/course_listing.asp
+
 L
 =
 [Learning by Giving Foundation]
