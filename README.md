@@ -63,10 +63,22 @@ http://www.bsc.edu/mooc/
 [Bound Tree Medical]
 http://www.boundtreeuniversity.com/classroom/
 
+[Brigham Young University]
+http://is.byu.edu/site/courses/free.cfm
+
+[Brown University]
+http://www.brown.edu/academics/online-learning
+
 C
 =
 [California University]
 https://www.uclaextension.edu/pages/search.aspx?c=free+courses
+
+[California State University]
+http://www.merlot.org/merlot/materials.htm?keywords=&amp;anyKeyWords=true&amp;allKeyWords=false&amp;exactPhraseKeyWords=false&amp;title=&amp;url=&amp;description=&amp;community=&amp;category=&amp;cat1=-1&amp;language=&amp;materialType=Online+Course&amp;technicalFormat=&amp;audience=&amp;lmsType=&amp;_cost=&amp;_copyright=&amp;_compliant=&amp;_codeAvailable=&amp;_creativeCommons=&amp;contributorName=&amp;contributorEmail=&amp;contributorOrg=&amp;_hasPeerReviews=&amp;_hasAwards=&amp;_hasComments=&amp;_hasCollections=&amp;_hasAssignments=&amp;_hasSnapshots=&amp;_hasSercActivitySheets=&amp;dateRange=on&amp;createdSinceHolder=1997-1-1&amp;createdBeforeHolder=2008-6-18&amp;createdSince=&amp;createdBefore=&amp;sort.property=overallRating&amp;submit.x=24&amp;submit.y=13
+
+[Cambridge University]
+http://www.cambridgegcsecomputing.org/new-course
 
 [Canvas]
 https://www.canvas.net
@@ -85,6 +97,9 @@ http://www.codecademy.com/
 
 [Code Club World]
 http://codeclubworld.org/
+
+[Colorado State University]
+http://www.online.colostate.edu/free-online-courses/
 
 [Columbia University]
 http://ci.columbia.edu/ci/eseminars/view_all.html
@@ -107,6 +122,9 @@ https://www.creativelive.com/
 [Curriki]
 http://www.curriki.org/
 
+[Curtin University]
+http://courses.curtin.edu.au/course_overview/moocs.cfm
+
 D
 =
 [Data Journalism]
@@ -120,6 +138,9 @@ http://docnmail.com/
 
 [Duck University]
 http://itunes.duke.edu/
+
+[DuoLingo]
+https://www.duolingo.com/
 
 E
 =
@@ -167,12 +188,16 @@ H
 =
 [Harvard University]
 http://www.extension.harvard.edu/open-learning-initiative
+http://online-learning.harvard.edu/
 
 [Hasso Plattner Institute]
 https://open.hpi.de
 
 [Hippo Campus]
 http://www.hippocampus.org/
+
+[Hobson Course Finder]
+http://www.hobsonscoursefinder.com.au/Support-Centre/Free-Online-Courses-MOOCs
 
 [HP Life]
 http://www.life-global.org/en/LEARN-ONLINE/HP-Life-e-Learning
@@ -193,8 +218,14 @@ J
 [Janux]
 https://janux.ou.edu
 
+[Johns Hopkins University]
+http://ocw.jhsph.edu/
+
 K
 =
+[Kaplan Higher Education Corporation]
+https://opencollege.kaplan.com/
+
 [Khan Academy]
 https://www.khanacademy.org/
 
@@ -275,8 +306,14 @@ http://www.openculture.com/
 [Open Education Consortium]
 http://www.oeconsortium.org/courses/
 
+[Open education Database]
+http://oedb.org/open/
+
 [Open Education Europa]
 http://www.openeducationeuropa.eu/en/find/moocs
+
+[Open Learn]
+http://openlearn.open.ac.uk/
 
 [Open Learning]
 https://www.openlearning.com/
@@ -304,6 +341,9 @@ https://p2pu.org
 [Penn State University]
 https://itunes.psu.edu/
 
+[PricewaterhouseCoopers]
+https://www.pwcopenuniversity.com/
+
 [Professional Education, Testing and Certification Organization International]
 http://www.peoi.org
 
@@ -314,6 +354,9 @@ http://www.qualt.com/
 
 R
 =
+[Regent University]
+http://luxvera.regent.edu/disciplines
+
 [Rice University]
 https://openstaxcollege.org/
 
@@ -328,6 +371,9 @@ https://open.sap.com/courses
 [Saylor University]
 http://www.saylor.org/
 
+[Scheneider Electric]
+http://www2.schneider-electric.com/sites/corporate/en/products-services/training/energy-university/energy-efficiency.page
+
 [Schoo]
 https://schoo.jp/
 
@@ -337,6 +383,8 @@ http://www.law.smu.edu/firstday/
 [Standford University]
 https://class.stanford.edu
 http://see.stanford.edu
+http://itunes.stanford.edu/
+http://online.stanford.edu/courses
 
 [SyMynd]
 https://www.symynd.com/
@@ -345,6 +393,9 @@ T
 =
 [ThinkCerca]
 http://www.thinkcerca.com/
+
+[Tufts University]
+http://ocw.tufts.edu/
 
 U
 =
@@ -399,11 +450,17 @@ https://www.upvx.es/
 [University of Oxford]
 http://webcast.oii.ox.ac.uk
 
+[University of Reading]
+http://www.reading.ac.uk/Study/study-moocs.aspx
+
 [University of Reddit]
 http://www.ureddit.com/
 
 [University of Southampton]
 http://www.southampton.ac.uk/moocs/
+
+[University of Washington]
+http://www.pce.uw.edu/online/free-courses/
 
 [Utah State University]
 http://ocw.usu.edu/courselist/
