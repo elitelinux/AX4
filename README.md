@@ -33,6 +33,9 @@ http://alison.com
 [APNA]
 https://www.apnacourse.com
 
+[+Acumen]
+http://plusacumen.org/
+
 [Aquent]
 http://gymnasium.aquent.com/catalog
 
@@ -46,6 +49,9 @@ https://openeducation.blackboard.com
 
 [Berkeley University]
 http://webcast.berkeley.edu/
+
+[Birmingham-Southern College]
+http://www.bsc.edu/mooc/
 
 C
 =
@@ -88,6 +94,9 @@ http://www.curriki.org/
 
 D
 =
+[Data Journalism]
+http://datajournalismcourse.net
+
 [Digital Biz Academy UK]
 http://digitalbusinessacademyuk.com/
 
@@ -272,6 +281,9 @@ http://www.udemy.com
 [UniMOOC]
 http://unimooc.com
 
+[University of Nicosia]
+http://digitalcurrency.unic.ac.cy/free-introductory-mooc
+
 [University of the People]
 http://uopeople.edu
 
@@ -301,5 +313,6 @@ Y
 =
 [Yale University]
 http://oyc.yale.edu/
+
 Z
 =
