@@ -19,7 +19,7 @@ Link http://en.wikipedia.org/wiki/Massive_open_online_course
 
 Index
 =====
-[A](#A) - [B](#B) - [C](#C) - D - E - F - G - H - I - J - K - M - M - N - O - P - Q - R - S - T - U - V - W - X - Y - Z
+[A](#a) - [B](#b) - [C](#c) - [D](#d) - E - F - G - H - I - J - K - M - M - N - O - P - Q - R - S - T - U - V - W - X - Y - Z
 
 
 websites for courses on line
