@@ -130,6 +130,9 @@ http://telescopio.galileo.edu
 [George Washington University]
 http://openedx.seas.gwu.edu
 
+[Google Code University]
+https://developers.google.com/university
+
 H
 =
 [Harvard University]
@@ -165,6 +168,9 @@ http://keepcoding.es
 [Kennesaw State University]
 http://mooc.kennesaw.edu/
 
+[Knight Center]
+http://open.journalismcourses.org
+
 [Kuato]
 http://www.kuatostudios.com/
 
@@ -175,6 +181,9 @@ http://www.learningbygivingfoundation.org/
 
 M
 =
+[Marist]
+https://thefold.marist.edu/home
+
 [Microsoft Virtual Academy]
 http://www.microsoftvirtualacademy.com/
 
