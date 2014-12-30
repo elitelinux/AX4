@@ -76,6 +76,9 @@ http://www.codecademy.com/
 [Code Club World]
 http://codeclubworld.org/
 
+[Columbia University]
+http://ci.columbia.edu/ci/eseminars/view_all.html
+
 [Complexity Explorer]
 http://www.complexityexplorer.org
 
@@ -119,6 +122,9 @@ https://eliademy.com/
 
 F
 =
+[Free Ed]
+http://www.free-ed.net/free-ed/
+
 [Future Learn]
 https://www.futurelearn.com
 
@@ -129,6 +135,9 @@ http://telescopio.galileo.edu
 
 [George Washington University]
 http://openedx.seas.gwu.edu
+
+[Goodwill Community Foundation]
+http://www.gcflearnfree.org
 
 [Google Code University]
 https://developers.google.com/university
@@ -299,6 +308,9 @@ http://uopeople.edu
 
 [Universidad Politécnica de Valencia]
 https://www.upvx.es/
+
+[University of Oxford]
+http://webcast.oii.ox.ac.uk
 
 V
 =
