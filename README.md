@@ -58,6 +58,9 @@ http://codeclubworld.org/
 [Complexity Explorer]
 http://www.complexityexplorer.org
 
+[Connect Americas]
+http://academy.connectamericas.com/es/web/general-navigation/cursos
+
 [Coursera]
 https://www.coursera.org
 
