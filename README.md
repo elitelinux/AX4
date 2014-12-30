@@ -163,6 +163,9 @@ http://www.extension.harvard.edu/open-learning-initiative
 [Hasso Plattner Institute]
 https://open.hpi.de
 
+[Hippo Campus]
+http://www.hippocampus.org/
+
 [HP Life]
 http://www.life-global.org/en/LEARN-ONLINE/HP-Life-e-Learning
 
@@ -369,6 +372,9 @@ https://www.upvx.es/
 
 [University of Oxford]
 http://webcast.oii.ox.ac.uk
+
+[Utah State University]
+http://ocw.usu.edu/courselist/
 
 V
 =
