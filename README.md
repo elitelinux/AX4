@@ -91,6 +91,9 @@ https://www.coursera.org
 [Course Sites BB]
 https://www.coursesites.com
 
+[Creative Live]
+https://www.creativelive.com/
+
 [Curriki]
 http://www.curriki.org/
 
@@ -130,8 +133,8 @@ https://www.futurelearn.com
 
 G
 =
-[Universidad Galileo]
-http://telescopio.galileo.edu
+[GED for Free]
+http://www.gedforfree.com/
 
 [George Washington University]
 http://openedx.seas.gwu.edu
@@ -300,6 +303,9 @@ http://www.udemy.com
 [UniMOOC]
 http://unimooc.com
 
+[Universidad Galileo]
+http://telescopio.galileo.edu
+
 [University of Nicosia]
 http://digitalcurrency.unic.ac.cy/free-introductory-mooc
 
@@ -335,6 +341,9 @@ Y
 =
 [Yale University]
 http://oyc.yale.edu/
+
+[YouTube Creator Academy]
+https://creatoracademy.withgoogle.com/
 
 Z
 =
