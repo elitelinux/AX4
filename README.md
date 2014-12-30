@@ -75,7 +75,7 @@ C
 https://www.uclaextension.edu/pages/search.aspx?c=free+courses
 
 [California State University]
-http://www.merlot.org/merlot/materials.htm?keywords=&amp;anyKeyWords=true&amp;allKeyWords=false&amp;exactPhraseKeyWords=false&amp;title=&amp;url=&amp;description=&amp;community=&amp;category=&amp;cat1=-1&amp;language=&amp;materialType=Online+Course&amp;technicalFormat=&amp;audience=&amp;lmsType=&amp;_cost=&amp;_copyright=&amp;_compliant=&amp;_codeAvailable=&amp;_creativeCommons=&amp;contributorName=&amp;contributorEmail=&amp;contributorOrg=&amp;_hasPeerReviews=&amp;_hasAwards=&amp;_hasComments=&amp;_hasCollections=&amp;_hasAssignments=&amp;_hasSnapshots=&amp;_hasSercActivitySheets=&amp;dateRange=on&amp;createdSinceHolder=1997-1-1&amp;createdBeforeHolder=2008-6-18&amp;createdSince=&amp;createdBefore=&amp;sort.property=overallRating&amp;submit.x=24&amp;submit.y=13
+http://www.merlot.org/merlot/materials.htm?keywords=&amp;anyKeyWords=true&amp;allKeyWords=false&amp;exactPhraseKeyWords=false&amp;title=&amp;url=&amp;description=&amp;community=&amp;category=&amp;cat1=-1&amp;language=&amp;materialType=Online+Course&amp;technicalFormat=&amp;audience=&amp;lmsType=&amp;_cost=&amp;_copyright=&amp;_compliant=&amp;_codeAvailable=&amp;_creativeCommons=&amp;contributorName=&amp;contributorEmail=&amp;contributorOrg=&amp;_hasPeerReviews=&amp;_hasAwards=&amp;_hasComments=&amp;_hasCollections=&amp;_hasAssignments=&amp;_hasSnapshots=&amp;_hasSercActivitySheets=&amp;dateRange=on&amp;createdSinceHolder=1997-1-1&amp;createdBeforeHolder=2014-12-31&amp;createdSince=&amp;createdBefore=&amp;sort.property=overallRating&amp;submit.x=24&amp;submit.y=13
 
 [Cambridge University]
 http://www.cambridgegcsecomputing.org/new-course
