@@ -39,6 +39,9 @@ http://plusacumen.org/
 [Aquent]
 http://gymnasium.aquent.com/catalog
 
+[Archive]
+https://archive.org/details/education
+
 [Aula Facil]
 http://www.aulafacil.com
 
@@ -106,6 +109,9 @@ http://datajournalismcourse.net
 [Digital Biz Academy UK]
 http://digitalbusinessacademyuk.com/
 
+[DocnMail]
+http://docnmail.com/
+
 [Duck University]
 http://itunes.duke.edu/
 
@@ -153,6 +159,9 @@ http://www.extension.harvard.edu/open-learning-initiative
 [Hasso Plattner Institute]
 https://open.hpi.de
 
+[HP Life]
+http://www.life-global.org/en/LEARN-ONLINE/HP-Life-e-Learning
+
 I
 =
 [Idesweb]
@@ -193,8 +202,14 @@ http://www.learningbygivingfoundation.org/
 
 M
 =
+[Marginal Revolution]
+http://mruniversity.com/
+
 [Marist]
 https://thefold.marist.edu/home
+
+[Memrise]
+http://www.memrise.com/
 
 [Microsoft Virtual Academy]
 http://www.microsoftvirtualacademy.com/
@@ -217,16 +232,16 @@ https://university.mongodb.com/
 [Moodle]
 https://learn.moodle.net/
 
-[Marginal Revolution]
-http://mruniversity.com/
-
 N
 =
-[NovoEd]
-https://novoed.com
-
 [Newsu]
 http://www.newsu.org/
+
+[New York University]
+http://www.nyu.edu/academics/open-education/coursesnew.html
+
+[NovoEd]
+https://novoed.com
 
 O
 =
@@ -245,6 +260,9 @@ https://www.openlearning.com/
 [Open Online Academy]
 https://www.ooed.org
 
+[OpenStax-CNX]
+http://cnx.org/content/
+
 [Open Up ED]
 http://www.openuped.eu/
 
@@ -259,6 +277,12 @@ P
 [Peer 2 Peer University]
 https://p2pu.org
 
+[Penn State University]
+https://itunes.psu.edu/
+
+[Professional Education, Testing and Certification Organization International]
+http://www.peoi.org
+
 Q
 =
 [Qualt]
@@ -266,6 +290,9 @@ http://www.qualt.com/
 
 R
 =
+[Rice University]
+https://openstaxcollege.org/
+
 [Rwaq]
 http://www.rwaq.org/
 
@@ -279,6 +306,9 @@ http://www.saylor.org/
 
 [Schoo]
 https://schoo.jp/
+
+[Southern Methodist University]
+http://www.law.smu.edu/firstday/
 
 [Standford University]
 https://class.stanford.edu
@@ -303,14 +333,29 @@ http://www.udemy.com
 [UniMOOC]
 http://unimooc.com
 
+[Universal Class]
+https://www.universalclass.com/
+
 [Universidad Galileo]
 http://telescopio.galileo.edu
+
+[University of Boston]
+http://ocw.umb.edu/courselist
+
+[University of California Irvine]
+http://ocw.uci.edu/
+
+[University of Michigan]
+https://open.umich.edu/
 
 [University of Nicosia]
 http://digitalcurrency.unic.ac.cy/free-introductory-mooc
 
 [University of the People]
 http://uopeople.edu
+
+[University of Texas at Austin]
+http://www.laits.utexas.edu/fi/home
 
 [Universidad Politécnica de Valencia]
 https://www.upvx.es/
