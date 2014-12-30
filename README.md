@@ -60,6 +60,9 @@ http://webcast.berkeley.edu/
 [Birmingham-Southern College]
 http://www.bsc.edu/mooc/
 
+[Bound Tree Medical]
+http://www.boundtreeuniversity.com/classroom/
+
 C
 =
 [California University]
@@ -363,6 +366,12 @@ http://ocw.umb.edu/courselist
 [University of California Irvine]
 http://ocw.uci.edu/
 
+[University of Edinburgh]
+http://www.ed.ac.uk/studying/online-learning/moocs/moocs
+
+[University of Exeter]
+http://www.exeter.ac.uk/climatechangecourse/
+
 [University of Michigan]
 https://open.umich.edu/
 
@@ -389,6 +398,9 @@ http://webcast.oii.ox.ac.uk
 
 [University of Reddit]
 http://www.ureddit.com/
+
+[University of Southampton]
+http://www.southampton.ac.uk/moocs/
 
 [Utah State University]
 http://ocw.usu.edu/courselist/
