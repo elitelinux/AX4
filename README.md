@@ -355,6 +355,9 @@ https://open.umich.edu/
 [University of Nicosia]
 http://digitalcurrency.unic.ac.cy/free-introductory-mooc
 
+[University of Notre Dame]
+http://online.nd.edu/
+
 [University of the People]
 http://uopeople.edu
 
@@ -374,6 +377,9 @@ http://www.veduca.com.br/
 
 W
 =
+[Washington State Board for Community and Technical Colleges]
+http://opencourselibrary.org/
+
 [Wikieducator]
 http://wikieducator.org/Content
 
