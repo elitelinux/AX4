@@ -298,6 +298,9 @@ http://www.nyu.edu/academics/open-education/coursesnew.html
 [NovoEd]
 https://novoed.com
 
+[Node School]
+http://nodeschool.io/
+
 O
 =
 [Open 2 Study]
@@ -464,6 +467,9 @@ http://www.southampton.ac.uk/moocs/
 
 [University of Washington]
 http://www.pce.uw.edu/online/free-courses/
+
+[University of Wisconsin-Madison]
+http://moocs.wisc.edu/
 
 [Utah State University]
 http://ocw.usu.edu/courselist/
