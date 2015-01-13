@@ -46,6 +46,9 @@ http://gymnasium.aquent.com/catalog
 [Archive]
 https://archive.org/details/education
 
+[Aelsnet Africa]
+http://www.aelsnet.net/eportal/
+
 [Aula Facil]
 http://www.aulafacil.com
 
